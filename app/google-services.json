@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19315734832",
+    "project_id": "isokkuy-android",
+    "storage_bucket": "isokkuy-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19315734832:android:7bf915e34b72d8efff30f5",
+        "android_client_info": {
+          "package_name": "com.example.isokkuy_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19315734832-u7a8kckhsde8cq7fj3l23s0dmqvbmfbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2KpDOf76lqcl9pIDNBy2WCKxCtKNc0O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19315734832-u7a8kckhsde8cq7fj3l23s0dmqvbmfbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
